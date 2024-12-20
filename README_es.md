@@ -15,13 +15,15 @@ Este proyecto implementa una aplicación CRUD (Crear, Leer, Actualizar, Eliminar
 
 ## Demo en vivo:
 
-Accede a al sitio de demostración en vivo en: ****
+Accede a al sitio de demostración en vivo en: [https://product-hu-bre.vercel.app/](https://product-hu-bre.vercel.app/) 
 
 ## Stack técnico
 
 **Frontend:** React, EasyUI
 
 **Backend:** API REST (basada en JSON) https://product-api-smoky.vercel.app/
+
+Puedes acceder al repositorio de la API aqui https://github.com/fabinnerself/productAPI.git
 
 ## Infraestructura:
 OS: Ubuntu 20.04.6 LTS o 24.04.4 LTS, Windows 10 Pro 1803

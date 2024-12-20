@@ -15,13 +15,15 @@ This project implements a comprehensive CRUD (Create, Read, Update, Delete) appl
 
 ## Live Demo:
 
-Access the live demo at : ****
+Access the live demo at : [https://product-hu-bre.vercel.app/](https://product-hu-bre.vercel.app/)
 
 ## Technical Stack
 
 **Frontend:** React, EasyUI
 
 **Backend:** REST API (JSON-based) https://product-api-smoky.vercel.app/
+
+You can access the API repository here https://github.com/fabinnerself/productAPI.gi
 
 ## Infrastructure:
 OS: Ubuntu 20.04.6 LTS or 24.04.4 LTS, Windows 10 Pro 1803
